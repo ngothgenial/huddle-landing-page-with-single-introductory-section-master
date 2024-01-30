@@ -1,0 +1,43 @@
+body{
+    background-image: url(images/bg-desktop.svg) ;
+    background-color: hsl(257, 40%, 49%) ;
+    color: white;
+}
+.main{
+    height: 100%;
+    background-color: black;
+    opacity: 0.5;
+}
+.logo{
+    margin-top: 20px;
+}
+
+.main-box{
+ margin-top: 50px;
+}
+.text{
+   padding: 40px;
+
+}
+.h3{
+    margin-bottom:40px;
+    font-weight: bold;
+    font-size: xx-large;
+    width: 400px;
+  
+}
+
+.h5{
+    font-size: medium;
+    font-weight: lighter;
+    margin-bottom: 30px;
+}
+.btn{
+    background-color:white ;
+    color: hsl(257, 40%, 49%);
+    width: 180px;
+    height: 50px;
+    border-radius: 75px;
+}
+
+ 
